@@ -5,3 +5,5 @@
 3. Math Expository Research paper on Addressing the Congruent Number Problem with Elliptic Curves
 
 4. Uploaded solutions for selected problems across different Crytography topics
+   
+5. Combinatorial Constructions and Error Correcting Codes
